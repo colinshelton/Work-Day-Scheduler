@@ -10,3 +10,4 @@ Launch browser.
 ## Usage
 Add an event to your desired time slot and click the save button to store in local storage. The current day, month, and date is displayed at the top of the page. 
 
+https://user-images.githubusercontent.com/61765683/85162336-3162ff80-b22f-11ea-973a-9a09d2faa600.png
